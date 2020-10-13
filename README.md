@@ -11,3 +11,6 @@ Here, we need to add the Access-key and Secret-key provided by AWS while creatin
 ![10 1](https://user-images.githubusercontent.com/64473684/95850722-e5ecd800-0d6e-11eb-8b92-93c8d7f0b092.jpeg)
 So, now creating a keypair :
 --key-name is an option to give a name to our key.
+![10 2](https://user-images.githubusercontent.com/64473684/95851608-17b26e80-0d70-11eb-8860-29eddb3641d4.jpeg)
+Now, we have our keypair ready and we can see that on the console too. 'taskkey' is created successfully.
+
