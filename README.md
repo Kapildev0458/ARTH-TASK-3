@@ -39,15 +39,16 @@ Our instance is now launched in ap-south-1a.
 
 Now, we will create a 1 GB Volume using EBS. EBS comes under the EC2 service of AWS.The volume type will be general purpose SSD Volume:
 
-![10 8](https://user-images.githubusercontent.com/64473684/95852091-ceaeea00-0d70-11eb-914b-84dea63f80a4.jpeg)
-
-Our EBS volume is now created and ready. This volume we need to attach to the EC2 instance we have created earlier.
 
 ![10 9](https://user-images.githubusercontent.com/64473684/95852103-d53d6180-0d70-11eb-9916-5b89814423f7.jpeg)
 
-Our volume is now successfully attached and we can see that in the Console of AWS:
+
+Our EBS volume is now created and ready. This volume we need to attach to the EC2 instance we have created earlier.
 
 ![10 10](https://user-images.githubusercontent.com/64473684/95852117-da9aac00-0d70-11eb-9ff6-6fba9c387f12.jpeg)
+
+Our volume is now successfully attached and we can see that in the Console of AWS:
+
 ![10 11](https://user-images.githubusercontent.com/64473684/95852158-edad7c00-0d70-11eb-82e9-a6343ad47f3a.jpeg)
 ![10 12](https://user-images.githubusercontent.com/64473684/95852216-0453d300-0d71-11eb-880e-5665c970f97a.jpeg)
 
