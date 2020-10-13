@@ -35,7 +35,8 @@ Now, lets create an EC2 instance. This instance will have the keypair and securi
 
 Our instance is now launched in ap-south-1a.
 
-![10 7](https://user-images.githubusercontent.com/64473684/95852005-acb56780-0d70-11eb-869c-2274f7bc0467.jpeg)
+![10 8](https://user-images.githubusercontent.com/64473684/95854404-8abde400-0d74-11eb-8157-33c69e9cba38.jpeg)
+
 
 Now, we will create a 1 GB Volume using EBS. EBS comes under the EC2 service of AWS.The volume type will be general purpose SSD Volume:
 
